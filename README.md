@@ -12,9 +12,8 @@ This repository showcases who I am, what I can do, and the journey I'm on in the
 
 ---
 
-## GitHub Stats
-
-![Farnaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farnaztr&show_icons=true&theme=tokyonight)
+## How to see
+click here: https://farnaztr.github.io/farnaz-portfolio/
 
 ---
 
