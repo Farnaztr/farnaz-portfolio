@@ -20,5 +20,6 @@ click here: https://farnaztr.github.io/farnaz-portfolio/
 ## Let's Connect
 
 - Email: `farnaztarabi@gmail.com`
-
+- Telegram: 'https://t.me/CodeMatrixx'
+- YouTube: 'https://www.youtube.com/@here-bitzone'
 
