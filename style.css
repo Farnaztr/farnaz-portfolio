@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Vazir', sans-serif;
+  background: #2e2626;
+  color: #fff;
+  line-height: 1.6;
+}
+
+header {
+  position: relative;
+  text-align: center;
+  padding: 5rem 1rem;
+  background: linear-gradient(135deg, #383535, #21022b);
+  color: #553838;
+  border-bottom: 5px solid #903aff;
+  overflow: hidden;
+}
+
+.profile-img {
+  width: 180px;
+  height: 180px;
+  border-radius: 48%;
+  border: 6px solid #903aff;
+}
+
+header h1 {
+  font-size: 2.8rem;
+  color: #773b7d;
+  margin-bottom: 0.5rem;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header p {
+  font-size: 1.3rem;
+  color: #ffe6e6;
+  margin-top: 1rem;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+section {
+  padding: 3rem 1.5rem;
+  max-width: 900px;
+  margin: 3rem auto;
+  background: #222;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+h2 {
+  font-size: 26px;
+  color: #5b0e00;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+}
+
+.about, .projects, .github {
+  background: linear-gradient(135deg, #fae0ff, #b952c9);
+  box-shadow: 0 4px 22px rgba(255, 186, 196, 0.4);
+  color: #2c2c2c;
+  border-radius: 15px;
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+}
+
+.about p {
+  font-weight: bold;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.projects ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.projects li {
+  margin: 1rem 0;
+  padding: 1rem;
+  background: #6d0f6d;
+  border-radius: 10px;
+  font-weight: bold;
+  transition: background 0.3s ease, transform 0.3s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.projects li:hover {
+  background: #06547f;
+  transform: translateY(-5px);
+}
+
+.projects strong {
+  color: #ffffff;
+}
+
+.github a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 1.3rem;
+  display: inline-block;
+  padding: 10px 20px;
+  background: #6b0981c1;
+  font-weight: bold;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+}
+
+.github a:hover {
+  color: #6996ff;
+  transform: translateY(-3px);
+}
+
+footer {
+  text-align: center;
+  padding: 1.5rem;
+  background: #111;
+  font-size: 1.1rem;
+  color: #888;
+}
+
+a {
+  text-decoration: none;
+  color: #f2c4ff;
+}
+
+@media screen and (max-width: 768px) {
+  header h1 {
+    font-size: 2.5rem;
+  }
+
+  section {
+    padding: 2rem 1rem;
+  }
+
+  .projects li {
+    padding: 0.8rem;
+  }
+
+  .contact-btn a {
+    font-size: 1.2rem;
+    padding: 12px 25px;
+  }
+}
