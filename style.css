@@ -11,9 +11,9 @@ header {
   position: relative;
   text-align: center;
   padding: 5rem 1rem;
-  background: linear-gradient(135deg, #383535, #21022b);
+  background: linear-gradient(135deg, #582a2a, #180101);
   color: #553838;
-  border-bottom: 5px solid #903aff;
+  border-bottom: 5px solid #ffffff;
   overflow: hidden;
 }
 
@@ -21,12 +21,12 @@ header {
   width: 180px;
   height: 180px;
   border-radius: 48%;
-  border: 6px solid #903aff;
+  border: 6px solid #ffffff;
 }
 
 header h1 {
   font-size: 2.8rem;
-  color: #773b7d;
+  color: #621414;
   margin-bottom: 0.5rem;
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -57,9 +57,9 @@ h2 {
 }
 
 .about, .projects, .github {
-  background: linear-gradient(135deg, #fae0ff, #b952c9);
+  background: linear-gradient(135deg, #d3b8b8, #310209);
   box-shadow: 0 4px 22px rgba(255, 186, 196, 0.4);
-  color: #2c2c2c;
+  color: #050000;
   border-radius: 15px;
   margin-bottom: 2rem;
   padding: 1.5rem;
@@ -78,7 +78,7 @@ h2 {
 .projects li {
   margin: 1rem 0;
   padding: 1rem;
-  background: #6d0f6d;
+  background: #530e0e;
   border-radius: 10px;
   font-weight: bold;
   transition: background 0.3s ease, transform 0.3s ease;
@@ -86,7 +86,7 @@ h2 {
 }
 
 .projects li:hover {
-  background: #06547f;
+  background: #ab683e;
   transform: translateY(-5px);
 }
 
@@ -100,14 +100,14 @@ h2 {
   font-size: 1.3rem;
   display: inline-block;
   padding: 10px 20px;
-  background: #6b0981c1;
+  background:  #530e0e;
   font-weight: bold;
   border-radius: 5px;
   transition: all 0.3s ease;
 }
 
 .github a:hover {
-  color: #6996ff;
+  color: #bb0158;
   transform: translateY(-3px);
 }
 
@@ -121,7 +121,7 @@ footer {
 
 a {
   text-decoration: none;
-  color: #f2c4ff;
+  color: #709680;
 }
 
 @media screen and (max-width: 768px) {
