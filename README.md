@@ -1,6 +1,5 @@
 # Farnaz's Portfolio
-  <img src="https://img.shields.io/badge/Author-farnaztr-black" />
-  <img src="https://img.shields.io/github/stars/farnaztr/farnaz-portfolio?style=social" />
+  <img src="https://img.shields.io/badge/Author-farnaztr-black" />    <img src="https://img.shields.io/github/stars/farnaztr/farnaz-portfolio?style=social" />
 Welcome to my personal portfolio repository.  
 I'm **Farnaz**, a student and aspiring developer passionate about technology, software development, and creative problem-solving.
 This portfolio showcases selected projects, my current skills, and how to connect with me.
